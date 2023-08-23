@@ -1,0 +1,19 @@
+.Color-button {
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.Gold {
+    background-color: gold;
+}
+
+.Silver {
+    background-color: silver;
+}
+
+.Bronze {
+    background-color: sienna;
+}
