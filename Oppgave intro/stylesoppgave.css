@@ -1,0 +1,38 @@
+.innerCard {
+    font-size: large;
+}
+.header {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 1vh 0;
+    border: 1vh solid white;
+    margin: 3vh;
+}
+
+.silver {
+background-color: silver;
+border: 2vh dashed goldenrod;
+}
+
+.gold {
+background-color: goldenrod;
+border: 2vh dashed silver;
+}
+
+.red {
+background-color: red;
+border: 2vh dashed black;
+}
+
+.innerCard {
+    font-size: large;
+}
+.photo {
+    justify-content: center;
+    text-align: center;
+}
+
+.currentcolor {
+    color: black;
+}
